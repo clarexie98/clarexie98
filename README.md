@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently a PhD student at Harvard University working on molecular simulations accelerated by AI models.
 - ❤️‍🔥 I'm passionate about utilizing/developing computational methods for material discovery
-- 📫 How to reach me: clarexie@g.harvard.edu
+- 📫 How to reach me: clarexie@fas.harvard.edu
 
 
 <!--
